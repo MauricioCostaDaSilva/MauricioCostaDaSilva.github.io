@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    text-align: top;
+    background: rgba(29, 16, 151, 0.014);
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 20px;
+    margin: 5% 2% 3% 5%;
+}
+#titulo{
+    font-family: sans-serif;
+    color: #384363;
+    margin-left: 10%;
+}
+
+fieldset{
+    border: 0;
+
+}
+body{
+    background-color: #abb7dc;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #384363;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+
+}
+input, select, textarea, button{
+
+    border-radius: 5px;
+    padding: 0.2em;
+    border: 1px solid #59429d;
+}
+
