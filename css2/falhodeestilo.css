@@ -17,6 +17,9 @@ h1,h2 {
     padding: 20px;
     margin: 5% 2% 3% 5%;
 }
+body{
+     background-image: url(fundopet01.png);
+}
 
 .header {
     border: 0px solid black;
